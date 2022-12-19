@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saieesh1997.
+- 👋 Hi, I’m Saieesh Subhash Naik.
 - 👨‍🎓 MCA Graduate 2022.
 - 🌱 I’m currently learning Full Stack Javascript Web development.
 - 📫 You can Reach Me Via [LinkedIn](https://www.linkedin.com/in/saieeshsnaik).
